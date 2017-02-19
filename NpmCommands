@@ -21,4 +21,9 @@ npm install @linclark/pkg --save
 //To check what module dependencies are installed
 npm ls
 
+//To publish your project as an npm package
+npm publish
+
+//In order to view your package content
+npm view @xloeza/howtonpm
 
