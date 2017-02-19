@@ -4,7 +4,7 @@
   "description": "Npm test module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "Xavier Loeza",
   "license": "ISC",
@@ -14,5 +14,8 @@
   },
   "keywords": [
     "htnpm"
-  ]
+  ],
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
