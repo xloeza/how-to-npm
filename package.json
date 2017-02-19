@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "howtonpm"
+    "url": "https://github.com/xloeza/how-to-npm.git"
   },
   "keywords": [
     "htnpm"
