@@ -12,3 +12,11 @@ sudo npm whoami
 
 //To create you npm user
 npm adduser
+
+//To install an npm module
+npm install <modulename>
+
+//To check what module dependencies are installed
+npm ls
+
+
