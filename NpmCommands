@@ -1,0 +1,14 @@
+// updates your npm to the latest version
+npm install npm -g
+
+// To set up your project with npm
+npm init
+npm init --scope=xloeza
+
+//To check you current npm user 
+npm whoami
+//If you need to grant privileges
+sudo npm whoami
+
+//To create you npm user
+npm adduser
